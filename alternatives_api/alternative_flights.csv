@@ -1,0 +1,6 @@
+flight_number,origin,destination,airline,departure_time,arrival_time,price
+UA710,SAT,ORD,United,09:00,12:00,290
+AA711,SAT,ORD,American,12:30,15:30,310
+DL712,SAT,ORD,Delta,17:00,20:10,305
+UA501,SAT,DFW,United,08:15,09:25,180
+AA320,SAT,DFW,American,10:30,11:40,195

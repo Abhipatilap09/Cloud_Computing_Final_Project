@@ -1,0 +1,5 @@
+flight_number,origin,destination,airline,departure_hour,weather_score,day_of_week
+AA101,SAT,DFW,American,9,0.8,2
+UA220,SAT,ORD,United,22,0.4,6
+DL310,SAT,ATL,Delta,5,0.2,7
+BA120,JFK,LAX,BudgetAir,23,0.3,5
